@@ -11,8 +11,9 @@
 
 ## Introduction
 
-This is a hybrid Next.js + Python app that uses Next.js as the frontend and FastAPI as the API backend. One great use case of this is to write Next.js apps that use Python AI libraries on the backend.
+ClutchCalls - Bet on your favorite referees.
 
+We, at ClutchCalls, have successfully undertaken a comprehensive project focused on refining the NBA's two-minute report dataset using Pandas, ensuring that it aligns seamlessly with our project objectives. Leveraging the power of SciKit Learn, we meticulously trained a model, considering a myriad of hyperparameters, to provide accurate predictions regarding individual referees' correct/incorrect calls per game within specific team matchups. Our commitment to excellence extends to prompt engineering, optimizing results and enhancing the overall efficiency of our model. Taking a step further, we utilized these predictions to formulate lines, establishing over-under betting values that present a lucrative opportunity for gamblers. This strategic approach not only maximizes potential profits for app creators but also strikes a balance with the broader market usage. Looking ahead, our intention is to publish an API, opening doors for potential collaborations with companies such as PrizePicks and DraftKings, thereby expanding the reach and impact of our innovative sports betting model.
 ## How It Works
 
 The Python/FastAPI server is mapped into to Next.js app under `/api/`.
